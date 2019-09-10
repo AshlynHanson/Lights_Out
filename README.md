@@ -1,2 +1,3 @@
 # Lights_Out
-A GUI that sets up a game of Lights Out.
+
+A GUI version of the game Lights Out.
